@@ -6,3 +6,7 @@
 数据源
 ## fix.py
 防止data.json的id不是自增1，即检查文件格式
+## http://localhost:7474
+在此网站输入 
+`MATCH(n) RETURN(n)` 
+即可查看最终效果
